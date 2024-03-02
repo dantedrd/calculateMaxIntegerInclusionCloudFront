@@ -1,7 +1,7 @@
 # Max-Integer-Inclusion-Cloud-Front
 
 ## Descripción
-Operation Web es una aplicación Fron End desarrollada con Angular que interactúa con el servicio [Max Integer Solver](https://github.com/jhonatanjimenezh/max-integer-solver). Esta interfaz de usuario permite resolver a los usuarios el problema de encontrar el máximo entero no negativo `k` tal que `0 ≤ k ≤ n` y `k mod x = y`. Este proyecto implementa una solución algorítmica para el problema descrito en [Codeforces - Problem 1374A](https://codeforces.com/problemset/problem/1374/A)
+ Max-Integer-Inclusion-Cloud-Front es una aplicación Fron End desarrollada con Angular que interactúa con el servicio [Max Integer Solver](https://github.com/jhonatanjimenezh/max-integer-solver). Esta interfaz de usuario permite resolver a los usuarios el problema de encontrar el máximo entero no negativo `k` tal que `0 ≤ k ≤ n` y `k mod x = y`. Este proyecto implementa una solución algorítmica para el problema descrito en [Codeforces - Problem 1374A](https://codeforces.com/problemset/problem/1374/A)
 
 ## Características
 - **Angular 12+**: Utilizado para la creación de una SPA (Single Page Application) robusta y moderna.
