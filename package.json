@@ -1,5 +1,5 @@
 {
-  "name": "operation-web",
+  "name": "calculate-number",
   "version": "0.0.1",
   "scripts": {
     "ng": "ng",
