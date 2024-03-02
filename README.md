@@ -40,7 +40,7 @@ La aplicación permite a los usuarios introducir los valores de `x`, `y` y `n` y
 ## Manejo de Errores
 El proyecto maneja errores de manera efectiva, mostrando modales de error amigables para informar al usuario sobre cualquier problema durante la operación de la aplicación.
 
-## Documentación
+## Demo
 La demo de la aplicacion la puedes encontrar en el siguiente enlace:
 - [Demo](http://app-inclusion-cloud.s3-website-us-east-1.amazonaws.com/calculate-number)
 
