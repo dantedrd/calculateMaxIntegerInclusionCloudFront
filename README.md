@@ -42,6 +42,6 @@ El proyecto maneja errores de manera efectiva, mostrando modales de error amigab
 
 ## Documentación
 La demo de la aplicacion la puedes encontrar en el siguiente enlace:
-- [Documentación del Proyecto](http://app-inclusion-cloud.s3-website-us-east-1.amazonaws.com/calculate-number)
+- [Demo](http://app-inclusion-cloud.s3-website-us-east-1.amazonaws.com/calculate-number)
 
 
